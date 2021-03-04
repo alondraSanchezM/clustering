@@ -24,5 +24,6 @@ Al no tener conocimientos previos de los datos de los datasets proporcionados, s
 * Generación de muestras
 * Ploteamiento
 ***
-
 Actividad para la clase de Mineria de Datos FCC - BUAP  |  Datasets proporcionados por el profesor
+***
+###### Se recomienda trabajar bajo R 3.5.3 por las librerías consumidas
